@@ -29,8 +29,7 @@ for count in range(1, 11):
 
 average = total / 10
 
-print()
-print("========== RESULTS ==========")
+
 print("Largest number:", largest)
 print("Smallest number:", smallest)
 print("Total sum:", total)
