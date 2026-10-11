@@ -1,6 +1,6 @@
 
 print("==============================")
-print("          FIZZBUZZ")
+print("======FIZZBUZZ======")
 print("==============================")
 
 start = int(input("Enter the starting number: "))
